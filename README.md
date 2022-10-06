@@ -9,7 +9,7 @@ Use the arrow up key to move the turtle to the other side of the street without 
 
 
 # Contributing
-Fork the repo on GitHub
+Fork the repo on GitHub <br/>
 Clone the project to your own machine
 Commit changes to your own branch
 Push your work back up to your fork
